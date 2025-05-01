@@ -1,7 +1,7 @@
 
 # 📊 Análise de Desempenho de Agente de Customer Support
 
-Este documento contém o prompt detalhado para análise de dados de um agente de suporte e a análise resultante realizada por um Cientista de Dados, formatada para clareza.
+Esse README contém o prompt utilizado para análise de dados de um agente de suporte e a análise resultante realizada por uma inteligência artifical, atuando como um cientista de dados.
 
 ---
 
